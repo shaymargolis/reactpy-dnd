@@ -1,0 +1,3 @@
+include README.md
+include reactpy_dnd/bundle.js
+include LICENSE
